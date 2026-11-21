@@ -1,3 +1,3 @@
 project: oss-hw2-1536
 owner: ohhyeonrok
-status: main-ohhyeonrok
+status: merged-1536 by ohhyeonrok
